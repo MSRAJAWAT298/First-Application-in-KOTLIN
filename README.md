@@ -1,2 +1,2 @@
-# My_First_Application_IN_KOTLIN
+# First Application in KOTLIN
 This my First Practce app on GitHub
